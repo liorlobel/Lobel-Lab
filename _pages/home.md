@@ -10,10 +10,7 @@ We are a dynamic research group at the [Bar-Ilan University School of Life Scien
 
 To this end, we utlize novel proteomic approaches to study how bacterial metabolism of dietary components affects the bacterial and host proteomes. We want to discover novel mechanisms by which the gut microbiota affects human health and harness them for theraputics (see [Research](research)).
 
-
-<video width="100%" preload="auto" poster="https://www.zuckerman-scholars.org/wp-content/themes/Zuckerman2022/images/logo.png" muted controls>
-    <source src="{{ site.baseurl }}/videos/LIOR_V6.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEGXsN9mS9s?si=fgQU1GvDu5YwpsQS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/Depositphotos_102346498_XL.jpg" width="100%">
