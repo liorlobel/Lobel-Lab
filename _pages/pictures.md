@@ -57,7 +57,7 @@ permalink: /pictures/
 #### Videos 
 
 <video width="33%" preload="auto" poster="https://www.myjewishlearning.com/wp-content/uploads/2018/11/hanukkahcandles-1444x900.jpg" muted controls>
-    <source src="{{ site.baseurl }}/videos/Hanukka_2023_vid.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/videos/Hanukka_2023.mp4" type="video/mp4">
 </video>
 
 <!-- First advertisement.
