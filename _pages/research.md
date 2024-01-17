@@ -32,7 +32,9 @@ permalink: /research/
 
 ###### We found that feeding a chronic kidney disease mouse model with diet high in sulfur amino acids resulted in higher S-sulfhydration of the bacterial enzyme tryptophanase that inhibited its production of the uremic toxin indoxyl sulfate. Tryptophanase inhibition alleviated kidney disease in these mice, compared to diet low in sulfur amino acids.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/Figure_S8_science.png" alt="Saa diet S-sulfhydration model"  width="80%" /> 
+
+<iframe width="672" height="378" src="https://drive.google.com/file/d/1UqwbCBM2fH9lg1zbTIofel5HY5_nDUP0/view?usp=share_link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <br/>
 
