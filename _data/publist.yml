@@ -1,3 +1,13 @@
+- title: "Posttranslational modifications: an emerging functional layer of diet-host-microbe interactions"
+  image: mBio_pic.png
+  description: Posttranslational modification (PTM) regulates protein activity by attaching chemical groups to amino acids in an enzymatic or non-enzymatic manner. PTMs offer fast and dynamic regulation of protein expression and can be influenced by specific dietary components that induce PTM events in gut microbiomes and their hosts. PTMs on microbiome proteins have been found to contribute to host-microbe interactions.
+  authors: Lirit Duchovni, Genrieta Shmunis, Lior Lobel
+  link:
+    url: https://journals.asm.org/doi/10.1128/mbio.02387-24
+    display: mBio, Sep 10 2024, 15(10)
+  highlight:
+  news2:
+
 - title: "Diet posttranslationally modifies the mouse gut microbial proteome to modulate renal function"
   image: fig1a-c.png
   description: Associations between chronic kidney disease (CKD) and the gut microbiota have been postulated, yet questions remain about the underlying mechanisms. In humans, dietary protein increases gut bacterial production of hydrogen sulfide (H2S), indole, and indoxyl sulfate. The latter are uremic toxins, and H2S has diverse physiological functions, some of which are mediated by posttranslational modification. In a mouse model of CKD, we found that a high sulfur amino acid-containing diet resulted in posttranslationally modified microbial tryptophanase activity. This reduced uremic toxin-producing activity and ameliorated progression to CKD in the mice. Thus, diet can tune microbiota function to support healthy host physiology through posttranslational modification without altering microbial community composition.
