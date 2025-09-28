@@ -21,8 +21,8 @@
   info: PhD student
   email: genrieta@gmail.com
   number_educ: 2
-  education1: B.Sc. in Life Sciences and Molecular Biology, Bar-Ilan University 2004
-  education2: M.Sc. in Biology with <a href="https://rbni.technion.ac.il/node/243">Prof. Arie Admon</a>,  Technion 2006
+  education1: B.Sc. in Life Sciences and Molecular Biology, Bar-Ilan University
+  education2: M.Sc. in Biology with <a href="https://rbni.technion.ac.il/node/243">Prof. Arie Admon</a>,  Technion
 
 - name: Lirit Duchovni
   photo: Lirit.jpeg
@@ -69,10 +69,18 @@
   number_educ: 1
   education1: B.Sc. Computational Biology, Bar-Ilan University 2024
 
+- name: Alexandra Shablinskaya
+  photo: Alex.jpg
+  info: M.Sc. student
+  email: <lexa.shablinskaya@gmail.com
+  number_educ: 1
+  education1: B.Sc. Life Sciences, Bar-Ilan University 2025
+
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://liorlobel.github.io/Lobel-Lab/openings">openings</a> for more info
-  email: lior@llobel.online
+  email: lior.lobel@biu.ac.il
   number_educ: 0
   education1:
   education2:
