@@ -15,7 +15,6 @@
 #   number_educ: 0
 #   education1:
 
-
 - name: Genrieta Shmunis
   photo: Henri.png
   info: PhD student
@@ -40,13 +39,6 @@
   education1: B.Sc. in Life Science, Bar-Ilan University 2022
   education2: M.Sc. in Life Science in our lab, Bar-Ilan University 2025
 
-- name: Rivka Males-Winner
-  photo: Rivkah.jpg
-  info: M.Sc. student
-  email: rymales@gmail.com
-  number_educ: 1
-  education1: B.Sc. Life Science, Bar-Ilan University 2023
-
 - name: Noa Havlin
   photo: Noa.jpg
   info: PhD student
@@ -54,13 +46,6 @@
   number_educ: 2
   education1: B.Sc. Biotechnology, Hadassah Academic College 2022
   education2: M.Sc. in Life Sciences in our lab (co-mentored with Dr. Yochai Wolf - Sheba Medical Center), Bar-Ilan University 2025
-
-- name: Or Gabay
-  photo: Or.jpg
-  info: M.Sc. student
-  email: gabayor2000@gmail.com
-  number_educ: 1
-  education1: B.Sc. Computational Biology, Bar-Ilan University 2023
 
 - name: Yonathan Hayat
   photo: Yonathan.JPG
