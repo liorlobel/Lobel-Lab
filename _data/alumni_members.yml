@@ -22,3 +22,19 @@
 #   number_educ: 2
 #   education1: B.Sc. Dual Major in Chemistry and Life Sciences, Bar-Ilan University 2020
 #   education2: M.Sc. in Chemistry with <a href="https://www.chill-lab.com/">Prof. Jordan Chill</a>,  Bar-Ilan University 2022
+
+- name: Rivka Males-Winner
+  photo: Rivkah.jpg
+  info: M.Sc. student
+  email: rymales@gmail.com
+  number_educ: 2
+  education1: B.Sc. Life Science, Bar-Ilan University 2023
+  education2: M.sc. Life Science, Bar-Ilan University 2025
+
+- name: Or Gabay
+  photo: Or.jpg
+  info: M.Sc. student
+  email: gabayor2000@gmail.com
+  number_educ: 2
+  education1: B.Sc. Computational Biology, Bar-Ilan University 2023
+  education2: B.Sc. Computational Biology, Bar-Ilan University 2025
