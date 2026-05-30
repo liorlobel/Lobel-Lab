@@ -56,6 +56,33 @@ firstp {
 	text-align: left;
 }
 
+.news-item {
+	margin-bottom: 14px;
+	padding-bottom: 12px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.news-item:last-of-type {
+	border-bottom: none;
+}
+
+.news-date {
+	display: block;
+	font-size: 12px;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	opacity: 0.6;
+}
+
+.news-item p {
+	margin: 2px 0;
+}
+
+.news-desc {
+	font-size: 13px;
+	opacity: 0.85;
+}
+
 #homeidtmp h1 {
 	text-align: center;
 }

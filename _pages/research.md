@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/77963634_l.jpg" alt="Happy Diet Microniome"  width="50%" /> 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/77963634_l.jpg" alt="Diet and the gut microbiome"  width="50%" /> 
 
 ##### The gut microbiota plays an important role in human health and physiology. 
 
@@ -37,7 +37,7 @@ permalink: /research/
 
 <br/>
 
-##### **Cancer-Microbiome Interactions - How Microbes Influence Tumor Inititaion, Growth and Response to Therapy**
+##### **Cancer-Microbiome Interactions - How Microbes Influence Tumor Initiation, Growth and Response to Therapy**
 
 ###### 1. Study the differences in the gut metaproteomes of immunotherapy-responding vs. non-responding patients. We aim to identify metabolites enriched in responders and test their antitumor activity in mouse tumor models.
 ###### 2. Engineer bacteria to target tumor cells and deliver bioactive payloads.
