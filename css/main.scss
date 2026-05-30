@@ -98,6 +98,51 @@ firstp {
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
+/* Full publication list, grouped by year */
+.pub-list {
+	margin-top: 10px;
+}
+
+.pub-year {
+	margin: 28px 0 12px;
+	padding-bottom: 6px;
+	border-bottom: 2px solid rgba(255, 255, 255, 0.15);
+	font-weight: 700;
+}
+
+.pub-entry {
+	padding: 10px 14px;
+	margin-bottom: 10px;
+	border-left: 3px solid #4a8bdf;
+	background: rgba(255, 255, 255, 0.03);
+	border-radius: 0 3px 3px 0;
+	transition: background 0.15s ease, transform 0.15s ease;
+}
+
+.pub-entry:hover {
+	background: rgba(255, 255, 255, 0.07);
+	transform: translateX(2px);
+}
+
+.pub-entry p {
+	margin: 0 0 3px;
+}
+
+.pub-title {
+	font-weight: 600;
+}
+
+.pub-authors {
+	font-size: 14px;
+	opacity: 0.85;
+}
+
+.pub-venue {
+	font-size: 13px;
+	font-style: italic;
+	opacity: 0.7;
+}
+
 
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
