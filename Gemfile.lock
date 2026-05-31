@@ -11,12 +11,10 @@ GEM
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
-    env (0.3.0)
     eventmachine (1.2.7)
     ffi (1.17.4-arm64-darwin)
     ffi (1.17.4-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
-    gem (0.0.1.alpha)
     google-protobuf (4.35.0-arm64-darwin)
       bigdecimal
       rake (~> 13.3)
@@ -95,8 +93,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  env (~> 0.3.0)
-  gem (~> 0.0.1.alpha)
   jekyll (~> 4.4)
   jekyll-feed
   jekyll-seo-tag
