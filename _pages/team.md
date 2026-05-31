@@ -2,7 +2,6 @@
 title: "Lobel Lab - Team"
 layout: gridlay
 excerpt: "Lobel Lab: Team members"
-sitemap: false
 permalink: /team/
 ---
 

@@ -2,7 +2,6 @@
 title: "Lobel Lab - Publications"
 layout: gridlay
 excerpt: "Lobel Lab -- Publications."
-sitemap: false
 permalink: /publications/
 ---
 

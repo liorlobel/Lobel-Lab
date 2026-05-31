@@ -2,7 +2,6 @@
 title: "Lobel Lab - Research"
 layout: textlay
 excerpt: "Lobel Lab -- Research"
-sitemap: false
 permalink: /research/
 ---
 
