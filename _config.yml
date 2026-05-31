@@ -8,6 +8,7 @@
 # Site settings
 title: The Lobel Lab
 email: lior@llobel.online
+google_analytics: G-4MK6ESQEE8
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Lobel Lab.
 baseurl: "/Lobel-Lab"
