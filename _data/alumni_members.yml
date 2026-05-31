@@ -38,3 +38,12 @@
   number_educ: 2
   education1: B.Sc. Computational Biology, Bar-Ilan University 2023
   education2: B.Sc. Computational Biology, Bar-Ilan University 2025
+
+- name: Moran Brenner
+  photo: Moran_new.jpg
+  info: Lab Manager
+  email: moran.brenner@biu.ac.il
+  number_educ: 3
+  education1: B.Sc in Life Sciences, Tel Aviv University 2013
+  education2: M.Sc in Life Sciences with <a href="https://www.herskovitslab.sites.tau.ac.il/">Dr. Anat Herskovits</a> at Tel Aviv University, 2016
+  education3: PhD with <a href="https://www.herskovitslab.sites.tau.ac.il/">Dr. Anat Herskovits</a> at Tel Aviv University, 2021
