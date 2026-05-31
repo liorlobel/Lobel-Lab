@@ -1,7 +1,7 @@
 ---
 title: "Lobel Lab - Publications"
 layout: gridlay
-excerpt: "Lobel Lab -- Publications."
+excerpt: "Publications from the Lobel Lab on diet, the gut microbiome, post-translational modifications, and host health."
 permalink: /publications/
 ---
 
