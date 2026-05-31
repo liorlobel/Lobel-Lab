@@ -2,6 +2,7 @@
 <div class="well">
 <h4>News</h4>
 
+<div class="news-timeline">
 {% for article in site.data.news limit:9 %}
 <div class="news-item">
   <span class="news-date">{{ article.date }}</span>
@@ -9,6 +10,7 @@
   {% if article.description %}<p class="news-desc">{{ article.description }}</p>{% endif %}
 </div>
 {% endfor %}
+</div>
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
 

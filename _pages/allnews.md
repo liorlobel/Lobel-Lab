@@ -8,8 +8,12 @@ permalink: /allnews.html
 
 # News
 
+<div class="news-timeline news-timeline-full">
 {% for article in site.data.news %}
-<h2> {{ article.date }} </h2>
-<h3>{{article.headline }}</h3>
-<h4><em>{{article.description}}</em></h4>
+<div class="news-item">
+  <span class="news-date">{{ article.date }}</span>
+  {{ article.headline | markdownify }}
+  {% if article.description %}<p class="news-desc">{{ article.description }}</p>{% endif %}
+</div>
 {% endfor %}
+</div>
