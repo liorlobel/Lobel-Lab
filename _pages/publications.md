@@ -24,15 +24,15 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-12 clearfix">
- <div class="well">
+ <div class="card"><div class="card-body">
   <pubtit>{{ publi.title }}</pubtit>
- <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="100%" style="float: left" loading="lazy" alt="{{ publi.title }}" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-fluid" width="100%" style="float: left" loading="lazy" alt="{{ publi.title }}" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
- </div>
+ </div></div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
