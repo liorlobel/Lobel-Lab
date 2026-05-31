@@ -1,7 +1,7 @@
 ---
 title: "Lobel Lab - Pictures"
 layout: piclay
-excerpt: "Lobel Lab -- Pictures"
+excerpt: "Photos from life in the Lobel Lab at Bar-Ilan University."
 permalink: /pictures/
 ---
 
@@ -51,7 +51,7 @@ permalink: /pictures/
 
 #### Videos 
 
-<video width="33%" preload="auto" poster="https://www.myjewishlearning.com/wp-content/uploads/2018/11/hanukkahcandles-1444x900.jpg" muted controls>
+<video width="33%" preload="auto" poster="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Hanukka_2023a.jpg" muted controls>
     <source src="{{ site.baseurl }}/Videos/Hanukka_2023.mp4" type="video/mp4">
 </video>
 

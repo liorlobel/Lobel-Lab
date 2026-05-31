@@ -1,13 +1,13 @@
 ---
 title: "Lobel Lab - Team"
 layout: gridlay
-excerpt: "Lobel Lab: Team members"
+excerpt: "Meet the Lobel Lab team — the researchers and students studying the gut microbiome at Bar-Ilan University."
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{site.url}}{{site.baseurl}}/openings) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{site.url}}{{site.baseurl}}/openings/) **!**
 
 
 Jump to [staff](#staff), [PhD and MSc students](#phd-and-msc-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).

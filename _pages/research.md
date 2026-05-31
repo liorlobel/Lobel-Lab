@@ -1,7 +1,7 @@
 ---
 title: "Lobel Lab - Research"
 layout: textlay
-excerpt: "Lobel Lab -- Research"
+excerpt: "How diet and gut bacteria interact to produce metabolites and protein modifications that affect host health — from chronic kidney disease to colorectal cancer."
 permalink: /research/
 ---
 

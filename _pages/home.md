@@ -1,7 +1,7 @@
 ---
 title: "Lobel Lab - Home"
 layout: homelay
-excerpt: "Lobel Lab at Bar-Ilan University."
+excerpt: "The Lobel Lab at Bar-Ilan University studies diet–microbiome–host interactions — how gut bacterial metabolism of dietary components shapes host immunity and disease."
 permalink: /
 ---
 
@@ -18,7 +18,7 @@ To this end, we utilize novel proteomic approaches to study how bacterial metabo
 
 We are located at Bar-Ilan University, where an aspiring cohort of microbiome research groups exists. We exchange ideas and work with our neighbors from [Dr. Nissan Yissachar Lab](https://www.yissacharlab.com/), [Dr. Yishay Pinto](https://life-sciences.biu.ac.il/en/node/10422) and [Dr. Asael Roichman](https://life-sciences.biu.ac.il/en/node/10421), as well as with the colleagues from Bar-Ilan Medical School - [Prof. Omry Koren](https://www.korenlab.com/) and [Dr. Shai Bel](https://www.thebellab.com/).
 
- **We are looking for passionate new MSc and PhD students, and Postdocs to join the team** [(more info)]({{site.url}}{{site.baseurl}}/openings) **!**
+ **We are looking for passionate new MSc and PhD students, and Postdocs to join the team** [(more info)]({{site.url}}{{site.baseurl}}/openings/) **!**
 
 
 We are grateful for funding from [Bar-Ilan University](https://life-sciences.biu.ac.il/en) and the [Zuckerman Scholars Program](https://zuckerman-scholars.org/ourprograms/faculty/)

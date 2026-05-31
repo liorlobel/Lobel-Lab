@@ -1,8 +1,8 @@
 ---
 title: "Lobel Lab - Openings"
 layout: textlay
-excerpt: "Openings"
-permalink: /openings
+excerpt: "Open MSc, PhD and postdoc positions in the Lobel Lab at Bar-Ilan University, studying diet–microbe–host interactions in the gut."
+permalink: /openings/
 ---
 
 # Open positions
