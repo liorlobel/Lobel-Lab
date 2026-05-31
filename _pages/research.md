@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/77963634_l.jpg" alt="Diet and the gut microbiome"  width="50%" loading="lazy" /> 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/77963634_l.jpg" alt="Diet and the gut microbiome" width="400" height="267" style="width:50%;height:auto" loading="lazy" /> 
 
 ##### The gut microbiota plays an important role in human health and physiology. 
 
@@ -43,6 +43,6 @@ permalink: /research/
 ###### 2. Engineer bacteria to target tumor cells and deliver bioactive payloads.
 ###### 3. Study how diet-microbiome interactions affect tumor progression. We treat mouse models of colorectal cancer with different diets that modulate the microbiome composition and/or activity to infer effects on tumor growth.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tumormicrobiome.jpeg" alt="Tumor Microbiome" width="80%" loading="lazy" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/tumormicrobiome.jpeg" alt="Tumor Microbiome" width="1758" height="2000" style="width:80%;height:auto" loading="lazy" />
 <br />
 Taken from TheScientist (© NICOLLE FULLER, NATASHA MUTCH, SAYOSTUDIO)
