@@ -7,7 +7,7 @@ permalink: /pictures/
 
 # Pictures
 
-#### Gallery
+## Gallery
 (Click an image to view it larger; use the arrow keys to browse.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
@@ -49,7 +49,7 @@ permalink: /pictures/
 
 <p> &nbsp; </p>
 
-#### Videos 
+## Videos 
 
 <video width="33%" preload="auto" poster="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Hanukka_2023a.jpg" muted controls>
     <source src="{{ site.baseurl }}/Videos/Hanukka_2023.mp4" type="video/mp4">

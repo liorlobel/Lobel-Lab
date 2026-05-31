@@ -23,7 +23,6 @@ defaults:
       image: /images/Lobel_lab_logo.jpg
 
 include:
-  - .htaccess
   - _pages
 
 sass:
