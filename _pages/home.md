@@ -13,7 +13,7 @@ To this end, we utilize novel proteomic approaches to study how bacterial metabo
 <div class="video-embed"><iframe src="https://www.youtube.com/embed/TEGXsN9mS9s?si=fgQU1GvDu5YwpsQS" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/Depositphotos_102346498_XL.jpg" width="100%" loading="lazy" alt="Illustration of the gut microbiome">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/Depositphotos_102346498_XL.jpg" width="2000" height="1200" style="width:100%;height:auto" loading="lazy" alt="Illustration of the gut microbiome">
 </figure>
 
 
