@@ -20,7 +20,7 @@ permalink: /pictures/
 
 <div class="col-sm-3 clearfix">
 <a class="gallery-link" href="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" data-caption="{{ pic.title | replace: '_', ' ' }}">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive gallery-img" width="95%" style="float: left" loading="lazy" alt="{{ pic.title | replace: '_', ' ' }}" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-fluid gallery-img" width="95%" style="float: left" loading="lazy" alt="{{ pic.title | replace: '_', ' ' }}" />
 </a>
 </div>
 
