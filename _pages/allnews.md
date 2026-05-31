@@ -2,7 +2,6 @@
 title: "News"
 layout: textlay
 excerpt: "Lobel Lab at Bar-Ilan University."
-sitemap: false
 permalink: /allnews.html
 ---
 

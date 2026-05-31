@@ -2,7 +2,6 @@
 title: "Lobel Lab - Home"
 layout: homelay
 excerpt: "Lobel Lab at Bar-Ilan University."
-sitemap: false
 permalink: /
 ---
 

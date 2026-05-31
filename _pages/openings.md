@@ -2,7 +2,6 @@
 title: "Lobel Lab - Openings"
 layout: textlay
 excerpt: "Openings"
-sitemap: false
 permalink: /openings
 ---
 
