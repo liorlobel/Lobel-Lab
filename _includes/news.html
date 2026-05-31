@@ -1,7 +1,7 @@
 
 <div class="card">
 <div class="card-body">
-<h4>News</h4>
+<h2 class="h4">News</h2>
 
 <div class="news-timeline">
 {% for article in site.data.news limit:9 %}
@@ -13,6 +13,6 @@
 {% endfor %}
 </div>
 
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+<p class="h6 mt-3"><a href="{{ site.url }}{{ site.baseurl }}/allnews.html" aria-label="See all lab news">... see all News</a></p>
 </div>
 </div>

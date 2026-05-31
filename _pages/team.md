@@ -24,7 +24,7 @@ Jump to [staff](#staff), [PhD and MSc students](#phd-and-msc-students), [alumni]
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid" width="25%" style="float: left" loading="lazy" alt="{{ member.name }}" />
-  <h4>{{ member.name }}</h4>
+  <h3 class="h4">{{ member.name }}</h3>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
@@ -89,7 +89,7 @@ Jump to [staff](#staff), [PhD and MSc students](#phd-and-msc-students), [alumni]
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid" width="25%" style="float: left" loading="lazy" alt="{{ member.name }}" />
-  <h4>{{ member.name }}</h4>
+  <h3 class="h4">{{ member.name }}</h3>
   <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
@@ -145,7 +145,7 @@ Jump to [staff](#staff), [PhD and MSc students](#phd-and-msc-students), [alumni]
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-fluid" width="25%" style="float: left" loading="lazy" alt="{{ member.name }}" />
-  <h4>{{ member.name }}</h4>
+  <h3 class="h4">{{ member.name }}</h3>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
   <ul style="overflow: hidden">
 
@@ -169,21 +169,21 @@ Jump to [staff](#staff), [PhD and MSc students](#phd-and-msc-students), [alumni]
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<h3 class="h4">Visitors</h3>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<h3 class="h4">Master students</h3>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<h3 class="h4">Bachelor Students</h3>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
