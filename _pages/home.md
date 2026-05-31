@@ -10,10 +10,10 @@ We are a dynamic research group at the [Bar-Ilan University School of Life Scien
 
 To this end, we utilize novel proteomic approaches to study how bacterial metabolism of dietary components affects the bacterial and host proteomes. We want to discover novel mechanisms by which the gut microbiota affects human health and harness them for therapeutics (see [Research](research)).
 
-<iframe width="672" height="378" src="https://www.youtube.com/embed/TEGXsN9mS9s?si=fgQU1GvDu5YwpsQS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-embed"><iframe src="https://www.youtube.com/embed/TEGXsN9mS9s?si=fgQU1GvDu5YwpsQS" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/Depositphotos_102346498_XL.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/researchpic/Depositphotos_102346498_XL.jpg" width="100%" loading="lazy" alt="Illustration of the gut microbiome">
 </figure>
 
 
@@ -25,6 +25,6 @@ We are located at Bar-Ilan University, where an aspiring cohort of microbiome re
 We are grateful for funding from [Bar-Ilan University](https://life-sciences.biu.ac.il/en) and the [Zuckerman Scholars Program](https://zuckerman-scholars.org/ourprograms/faculty/)
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Bar-ilan_logo.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Zuckerman.png" alt="Zuckerman STEM Leadership program" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Bar-ilan_logo.png" alt="Bar-Ilan University logo" loading="lazy" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Zuckerman.png" alt="Zuckerman STEM Leadership program" loading="lazy" style="width: 210px">
 </figure>

@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/77963634_l.jpg" alt="Diet and the gut microbiome"  width="50%" /> 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/77963634_l.jpg" alt="Diet and the gut microbiome"  width="50%" loading="lazy" /> 
 
 ##### The gut microbiota plays an important role in human health and physiology. 
 
@@ -33,7 +33,7 @@ permalink: /research/
 ###### We found that feeding a chronic kidney disease mouse model with diet high in sulfur amino acids resulted in higher S-sulfhydration of the bacterial enzyme tryptophanase that inhibited its production of the uremic toxin indoxyl sulfate. Tryptophanase inhibition alleviated kidney disease in these mice, compared to diet low in sulfur amino acids.
 
 
-<iframe src="https://drive.google.com/file/d/1UqwbCBM2fH9lg1zbTIofel5HY5_nDUP0/preview" width="672" height="378" allow="autoplay"></iframe>
+<div class="video-embed"><iframe src="https://drive.google.com/file/d/1UqwbCBM2fH9lg1zbTIofel5HY5_nDUP0/preview" loading="lazy" allow="autoplay"></iframe></div>
 
 <br/>
 
@@ -43,6 +43,6 @@ permalink: /research/
 ###### 2. Engineer bacteria to target tumor cells and deliver bioactive payloads.
 ###### 3. Study how diet-microbiome interactions affect tumor progression. We treat mouse models of colorectal cancer with different diets that modulate the microbiome composition and/or activity to infer effects on tumor growth.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/tumormicrobiome.jpeg" alt="Tumor Microbiome" width="80%" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/tumormicrobiome.jpeg" alt="Tumor Microbiome" width="80%" loading="lazy" />
 <br />
 Taken from TheScientist (© NICOLLE FULLER, NATASHA MUTCH, SAYOSTUDIO)
