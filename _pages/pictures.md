@@ -8,7 +8,7 @@ permalink: /pictures/
 # Pictures
 
 #### Gallery
-(Right-click *'view image'* to see a larger image.)
+(Click an image to view it larger; use the arrow keys to browse.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
 
@@ -19,7 +19,9 @@ permalink: /pictures/
 {% endif %} 
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<a class="gallery-link" href="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" data-caption="{{ pic.title | replace: '_', ' ' }}">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive gallery-img" width="95%" style="float: left" loading="lazy" alt="{{ pic.title | replace: '_', ' ' }}" />
+</a>
 </div>
 
 
@@ -52,3 +54,5 @@ permalink: /pictures/
 <video width="33%" preload="auto" poster="https://www.myjewishlearning.com/wp-content/uploads/2018/11/hanukkahcandles-1444x900.jpg" muted controls>
     <source src="{{ site.baseurl }}/Videos/Hanukka_2023.mp4" type="video/mp4">
 </video>
+
+<script src="{{ site.url }}{{ site.baseurl }}/js/lightbox.js"></script>
