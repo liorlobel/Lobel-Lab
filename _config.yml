@@ -11,7 +11,15 @@ email: lior@llobel.online
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Lobel Lab.
 baseurl: "/Lobel-Lab"
-url: ""
+url: "https://liorlobel.github.io"
+
+# Link-preview metadata (used by jekyll-seo-tag for Open Graph cards)
+logo: /images/Lobel_lab_logo.jpg
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/Lobel_lab_logo.jpg
 
 include:
   - .htaccess
