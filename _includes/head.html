@@ -7,7 +7,12 @@
   <link rel="stylesheet" href="{{ "/assets/vendor/bootstrap/bootstrap.min.css" | prepend: site.baseurl | prepend: site.url}}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}{{ site.baseurl }}/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}{{ site.baseurl }}/images/favicon-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}{{ site.baseurl }}/images/apple-touch-icon.png">
+<link rel="manifest" href="{{ site.url }}{{ site.baseurl }}/site.webmanifest">
+<meta name="theme-color" content="#212529">
 
 {% if jekyll.environment == 'production' %}
 {% include analytics.html %}
